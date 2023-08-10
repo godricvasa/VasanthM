@@ -1,3 +1,4 @@
+
 body{
     margin: 0;
    text-align: center;
@@ -27,7 +28,8 @@ h3{
     color: #11999E;
 }
 .top{
-    background-color:#e4f9f5;
+    background-color:#e4f9f5;background-image: url("http://www.designbolts.com/wp-content/uploads/2013/02/Diagonal-Bricks-Grey-Seamless-Pattern-For-Website-Background.jpg");
+    
     
     position: relative;
     
